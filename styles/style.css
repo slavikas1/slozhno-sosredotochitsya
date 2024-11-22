@@ -279,16 +279,13 @@
   }
 
   .image-blocks__content {
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
   }
 
   .gallery-content__section {
     display: grid;
     gap: 20px;
-  }
-
-  .image-blocks__content {
-    grid-template-columns: repeat(3, 1fr);
   }
 
   .content__picture-sunset {
