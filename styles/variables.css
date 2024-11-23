@@ -6,10 +6,12 @@
   --accent-line-height: 1.3em;
   --accent-color: #ff0070;
   --accent-text-color: #f1b2ce;
+  --accent-title-color: #000028;
   --accent-border: 1px solid var(--accent-color);
   --hover-color: rgb(255, 0, 112, 0.4);
   --header-title-color: #db00ff;
-  --shadow-color: #ff0070;
+  --shadow-title-color: #ff0070;
+  --shadow-link-color: #ff0070;
   --bg-text-color: #ff0070;
   --bg-image: url(../images/cover-image-dark.png);
   --bg-color: #000028;
