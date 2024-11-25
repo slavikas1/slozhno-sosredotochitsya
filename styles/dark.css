@@ -22,3 +22,6 @@
   --bg-color: #000028;
 }
 
+.page.theme_dark .header__lamp {
+  display: flex;
+}

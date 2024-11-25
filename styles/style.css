@@ -12,6 +12,7 @@
 
 .header {
   block-size: 100vh;
+  min-block-size: var(--min-size);
   padding: var(--main-gap);
   display: grid;
   grid-template-rows: repeat(3, 1fr);
@@ -219,6 +220,7 @@
 
 .footer {
   block-size: 100vh;
+  min-block-size: var(--min-size);
   margin-block-start: 30px;
   padding: var(--main-gap);
   display: flex;

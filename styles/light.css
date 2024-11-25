@@ -40,7 +40,7 @@
     --bg-color: #fff1f7;
   }
 
-  .page.theme_auto .header__lamp {
+  .header__lamp {
     display: none;
   }
 }

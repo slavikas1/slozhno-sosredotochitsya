@@ -22,13 +22,6 @@
 @media (768px <= width) {
   :root {
     --main-gap: 20px;
-    --min-size: 1024px;
-  }
-}
-
-@media (1024px <= width) {
-  :root {
-    --min-size: 768px;
   }
 }
 /*
